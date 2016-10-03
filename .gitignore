@@ -1,0 +1,8 @@
+notes.docx
+*.docx
+michele-lectures-old/*
+misc/*
+temp/*
+tutorials/*
+.DS_Store
+6-lecture-extra/*
